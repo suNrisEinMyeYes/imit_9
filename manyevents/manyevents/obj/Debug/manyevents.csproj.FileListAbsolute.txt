@@ -1,0 +1,10 @@
+C:\Users\Артём\source\repos\manyevents\manyevents\bin\Debug\manyevents.exe.config
+C:\Users\Артём\source\repos\manyevents\manyevents\bin\Debug\manyevents.exe
+C:\Users\Артём\source\repos\manyevents\manyevents\bin\Debug\manyevents.pdb
+C:\Users\Артём\source\repos\manyevents\manyevents\obj\Debug\manyevents.csprojAssemblyReference.cache
+C:\Users\Артём\source\repos\manyevents\manyevents\obj\Debug\manyevents.Form1.resources
+C:\Users\Артём\source\repos\manyevents\manyevents\obj\Debug\manyevents.Properties.Resources.resources
+C:\Users\Артём\source\repos\manyevents\manyevents\obj\Debug\manyevents.csproj.GenerateResource.cache
+C:\Users\Артём\source\repos\manyevents\manyevents\obj\Debug\manyevents.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\manyevents\manyevents\obj\Debug\manyevents.exe
+C:\Users\Артём\source\repos\manyevents\manyevents\obj\Debug\manyevents.pdb
